@@ -29,3 +29,10 @@ cd stock-price-predictor
 pip install -r requirements.txt
 python src/predict_stock.py
 ```
+
+## Requirements
+- numpy
+- pandas
+- yfinance
+- scikit-learn
+- tensorflow
